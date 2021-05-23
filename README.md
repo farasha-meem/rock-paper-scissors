@@ -1,0 +1,1 @@
+This is a site to play the popular classic game "Rock, Paper, Scissors".
